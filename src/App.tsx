@@ -13,22 +13,22 @@ function App() {
         }} /> {/* Horizontal Line */}
       </div> {/* First Row */}
       <div> {/* Second Row */}
-      <div className="flex items-center w-screen h-screen overflow-hidden justify-between"> {/* Second Row Container */}
-        <div className="p-2 w-full h-full flex flex-col items-center hover:bg-orange-300 hover:border-4 border-black hover:translate-y-2 hover:transition duration-300 hover:shadow-lg cursor-pointer"> {/* Column 1 */}
+      <div className="flex items-center w-screen h-9/10 overflow-hidden justify-between"> {/* Second Row Container */}
+        <div className="p-2 w-9/10 h-9/10 flex flex-col items-center hover:bg-orange-300 hover:border-4 border-black hover:translate-y-2 hover:transition duration-300 hover:shadow-lg cursor-pointer"> {/* Column 1 */}
           <img className="h-1/2 w-1/2 object-cover" src="/image-13.jpeg" alt="Bacon Stir Fry" />
           <p className="text-center text-2xl font-bold">Bacon Stir Fry</p>
           <p className="text-center text-wrap">This is sample text. Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
           <p className="text-center">Wed Jul 2025</p>
           <button className="bg-blue-500 p-2 rounded-full hover:bg-red-500 cursor-pointer">Read More</button>
         </div> {/* Column 1 */}
-        <div className="p-2 w-full h-full flex flex-col items-center hover:bg-orange-300 hover:border-4 border-black hover:translate-y-2 hover:transition duration-300 hover:shadow-lg cursor-pointer"> {/* Column 2 */}
+        <div className="p-2 w-9/10 h-9/10 flex flex-col items-center hover:bg-orange-300 hover:border-4 border-black hover:translate-y-2 hover:transition duration-300 hover:shadow-lg cursor-pointer"> {/* Column 2 */}
           <img className="h-1/2 w-1/2 object-cover" src="/ep-air-fryer-bacon-1-6a2a-jumbo.jpg" alt="Air Fried Bacon" />
           <p className="text-center text-2xl font-bold">Air Fried Bacon</p>
           <p className="text-center text-wrap">This is sample text. Lorem ipsum, dolor sit amet consectetur adipisicing elit. </p>
           <p className="text-center">Wed Jul 2025</p>
           <button className="bg-blue-500 p-2 rounded-full hover:bg-red-500 cursor-pointer">Read More</button>
         </div> {/* Column 2 */}
-        <div className="p-2 w-full h-full flex flex-col items-center hover:bg-orange-300 hover:border-4 border-black hover:translate-y-2 hover:transition duration-300 hover:shadow-lg cursor-pointer"> {/* Column 3 */}
+        <div className="p-2 w-9/10 h-9/10 flex flex-col items-center hover:bg-orange-300 hover:border-4 border-black hover:translate-y-2 hover:transition duration-300 hover:shadow-lg cursor-pointer"> {/* Column 3 */}
           <img className="h-1/2 w-1/2 object-cover" src="/at_archive_d46f944e0f896378646ac0ea14550e4a5645053e.jpg" alt="Bacon Skewers" />
           <p className="text-center text-2xl font-bold">Bacon Skewers</p>
           <p className="text-center text-wrap">This is sample text. Lorem ipsum, dolor sit amet consectetur adipisicing elit. </p>
